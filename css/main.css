@@ -1540,6 +1540,16 @@ footer ul li a {
     h1.giant-heading {
         font-size: 62px;
     }
+    
+    .blog .left .news > img, .blog .right .news > img {
+        float: none;
+        width: 100%;
+        margin: 0 15%;
+    }
+    
+    .blog .left .news .news-copy, .blog .right .news .news-copy {
+        margin: 0 15%;
+    }
 }
 
 
@@ -1565,11 +1575,11 @@ footer ul li a {
     .blog .left .news > img, .blog .right .news > img {
         float: none;
         width: 100%;
-        margin: 0 5%;
+        margin: 0;
     }
     
     .blog .left .news .news-copy, .blog .right .news .news-copy {
-        margin: 0 5%;
+        margin: 0;
     }
     
     .video-container iframe {
