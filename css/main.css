@@ -1569,9 +1569,15 @@ footer ul li a {
 
 
 @media (max-width:767px) {
+    
+    #header {
+        background-size: cover;
+    }
+    
     #header .banner h1 {
         font-size:60px;
     }
+    
     #header .subtitle h4 {
         font-size: 18px;
         letter-spacing:2px;
