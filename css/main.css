@@ -1428,14 +1428,14 @@ figure.effect-chico:hover p {
 }
 .blog .left .news .news-copy {
     text-align: center;
-    margin: 0 10%;
+    /*margin: 0 10%;*/
 }
 .blog .right .news {
     padding-left: 40px;
 }
 .blog .right .news .news-copy {
     text-align: center;
-    margin: 0 20% 0 0;
+    /*margin: 0 20% 0 0;*/
 }
 .row.blog {
     /*background-image: url(../img/timeline-divider.png);*/
@@ -1565,7 +1565,7 @@ footer ul li a {
     .blog .left .news > img, .blog .right .news > img {
         float: none;
         width: 100%;
-        margin-left: 0;
+        margin: 0 15%;
     }
     
     .blog .left .news .news-copy, .blog .right .news .news-copy {
