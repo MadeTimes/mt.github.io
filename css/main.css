@@ -1565,11 +1565,11 @@ footer ul li a {
     .blog .left .news > img, .blog .right .news > img {
         float: none;
         width: 100%;
-        margin: 0 15%;
+        margin: 0 10%;
     }
     
     .blog .left .news .news-copy, .blog .right .news .news-copy {
-        margin: 0 15%;
+        margin: 0 10%;
     }
     
     .video-container iframe {
